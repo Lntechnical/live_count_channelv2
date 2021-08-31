@@ -18,7 +18,7 @@ ch7 = []
 ch8 = []
 
 
-count1 = app.count("@cwprojects")
+count1 = app.count("@telegram")
 count2 = app.count("@InFoTel14")
 count3 = app.count("@mwkbots")
 count4 = app.count("@HeimanSupports")
