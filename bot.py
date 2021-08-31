@@ -20,7 +20,7 @@ ch8 = []
 TEXT = f"""
   Telegram Channel Live Subscriber Counting .... 🎉🎉
   
-   [Telegram](https://t.me/telegram) - {ch1[0]}
+   [Telegram](telegram) - {ch1[0]}
    [InFoTel](https://t.me/InFoTel14) - {ch2[0]} 
    [🇮🇳 Shrimadhav U K ✔️](https://t.me/SpEcHlDe) - {ch8[0]}
    [Mwk | links & Projects](https://t.me/mwkbots) - {ch3[0]}
