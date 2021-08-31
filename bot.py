@@ -20,7 +20,7 @@ ch8 = []
 TEXT = f"""
   Telegram Channel Live Subscriber Counting .... 🎉🎉
   
-   [CW Projects](https://t.me/cwprojects) - {ch1[0]}
+   [Telegram](https://t.me/telegram) - {ch1[0]}
    [InFoTel](https://t.me/InFoTel14) - {ch2[0]} 
    [🇮🇳 Shrimadhav U K ✔️](https://t.me/SpEcHlDe) - {ch8[0]}
    [Mwk | links & Projects](https://t.me/mwkbots) - {ch3[0]}
@@ -34,7 +34,7 @@ TEXT = f"""
 
 
 
-count1 = app.count("@cwprojects")
+count1 = app.count("@telegram")
 count2 = app.count("@InFoTel14")
 count3 = app.count("@mwkbots")
 count4 = app.count("@HeimanSupports")
